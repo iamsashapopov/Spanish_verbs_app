@@ -1,9 +1,8 @@
-import streamlit as st
 import json
 import os
-import unicodedata
-import streamlit.components.v1 as components
-import base64
+from pathlib import Path
+
+import streamlit as st
 
 LOG_PATH = "/Users/sashapopov/Desktop/spanish_app/.cursor/debug.log"
 
@@ -25,16 +24,35 @@ def _img_to_data(path):
     return f"data:image/png;base64,{encoded_string}"
 
 
-# Путь к локальной базе данных
-VERBS_FILE = "/Users/sashapopov/Desktop/spanish_app/verbs.json"
+@st.cache_data(show_spinner=False)
+def load_verbs() -> dict:
+    # 1) Пытаемся найти verbs.json рядом с main.py
+    base_dir = Path(__file__).resolve().parent
+    json_path = base_dir / "verbs.json"
 
+    # 2) (Опционально) разрешаем переопределить путь через secrets / env
+    override = st.secrets.get("VERBS_FILE") if hasattr(st, "secrets") else None
+    if override:
+        json_path = Path(str(override)).expanduser()
 
-def load_verbs():
-    try:
-        with open(VERBS_FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
-    except Exception:
+    env_override = os.environ.get("VERBS_FILE")
+    if env_override:
+        json_path = Path(env_override).expanduser()
+
+    if not json_path.exists():
+        st.error("Не найден verbs.json. Проверь путь и что файл закоммичен в репозиторий.")
+        st.code(
+            f"__file__ = {Path(__file__).resolve()}\n"
+            f"base_dir = {base_dir}\n"
+            f"json_path = {json_path}\n"
+            f"cwd = {Path.cwd()}\n"
+            f"base_dir files = {[p.name for p in base_dir.iterdir()]}\n",
+            language="text",
+        )
         return {}
+
+    with json_path.open("r", encoding="utf-8") as f:
+        return json.load(f)
 
 
 def ensure_translation_field(db: dict) -> bool:
