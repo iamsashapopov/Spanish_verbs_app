@@ -1,0 +1,21 @@
+{"event": "search_form_render", "data": {"last_search": ""}, "timestamp": 1768487002542}
+{"event": "search_form_render", "data": {"last_search": ""}, "timestamp": 1768487009209}
+{"event": "search_form_submitted", "data": {"verb_input": "hablar", "prev_last_search": "", "new_last_search": "hablar"}, "timestamp": 1768487009211}
+{"event": "render_results", "data": {"current_query": "hablar", "key": "hablar"}, "timestamp": 1768487009211}
+{"event": "search_form_render", "data": {"last_search": ""}, "timestamp": 1768487126812}
+{"event": "search_form_render", "data": {"last_search": ""}, "timestamp": 1768487134159}
+{"event": "search_form_submitted", "data": {"verb_input": "hablar", "prev_last_search": "", "new_last_search": "hablar"}, "timestamp": 1768487134160}
+{"event": "render_results", "data": {"current_query": "hablar", "key": "hablar"}, "timestamp": 1768487134161}
+{"event": "search_form_render", "data": {"last_search": ""}, "timestamp": 1768487185201}
+{"event": "search_form_render", "data": {"last_search": ""}, "timestamp": 1768487191850}
+{"event": "search_form_submitted", "data": {"verb_input": "hablar", "prev_last_search": "", "new_last_search": "hablar"}, "timestamp": 1768487191851}
+{"event": "render_results", "data": {"current_query": "hablar", "key": "hablar"}, "timestamp": 1768487191851}
+{"event": "search_form_render", "data": {"last_search": ""}, "timestamp": 1768487517983}
+{"event": "search_form_render", "data": {"last_search": ""}, "timestamp": 1768487525095}
+{"event": "search_form_submitted", "data": {"verb_input": "hablar", "prev_last_search": "", "new_last_search": "hablar"}, "timestamp": 1768487525096}
+{"event": "render_results", "data": {"current_query": "hablar", "key": "hablar"}, "timestamp": 1768487525097}
+{"event": "search_form_render", "data": {"last_search": ""}, "timestamp": 1768487588070}
+{"event": "search_form_render", "data": {"last_search": ""}, "timestamp": 1768487594875}
+{"event": "search_form_render", "data": {"last_search": ""}, "timestamp": 1768487602358}
+{"event": "search_form_submitted", "data": {"verb_input": "hablar", "prev_last_search": "", "new_last_search": "hablar"}, "timestamp": 1768487602360}
+{"event": "render_results", "data": {"current_query": "hablar", "key": "hablar"}, "timestamp": 1768487602361}
