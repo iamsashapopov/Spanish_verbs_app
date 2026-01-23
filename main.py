@@ -1,5 +1,6 @@
 import json
 import os
+import unicodedata
 from pathlib import Path
 
 import streamlit as st
