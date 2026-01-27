@@ -86,32 +86,38 @@ st.set_page_config(
 )
 
 _CSS = """
-<style>
-body { background: linear-gradient(180deg, #f7f9fc 0%, #ffffff 100%); }
+    <style>
+    :root { color-scheme: light; }
+    @media (prefers-color-scheme: dark) {
+        :root { color-scheme: light; }
+        html, body { background: #ffffff !important; color: #111111 !important; }
+    }
 
-/* padding-top для основного контейнера приложения */
-[data-testid="stMainBlockContainer"] {
-    padding-top: 18px !important;
-}
- .card { 
-     padding: 18px; 
-     border-radius: 12px; 
-     background: transparent; 
-     box-shadow: none;
-     width: 100%;
-     max-width: 1200px;
-     margin: 0 auto;
-     box-sizing: border-box;
- }
-.header { display: flex; align-items: center; gap: 12px; margin-bottom: 20px; }
-.tense-title { margin-top: 12px; margin-bottom: 6px; font-weight: 600; border-bottom: none; display: inline-block; color: #333; text-align: left; }
-.custom-table { width: 100%; border-collapse: collapse; margin-bottom: 20px; font-size: 14px; }
-.custom-table th { text-align: left; padding: 6px; border-bottom: 1px solid #eee; color: #666; }
-.custom-table td { padding: 6px; border-bottom: 1px solid #f9f9f9; }
-.conj-list { list-style: none; padding: 0 !important; margin: 8px 0 0px 0; }
-.conj-item { padding: 4px 0 !important; border-bottom: 1px solid #f3f3f3; margin: 0 !important; list-style-type: none; }
-.conj-pronoun { color: #888; font-size: 13px; margin-bottom: 0px !important; text-align: left; }
-.conj-verb { color: #111; font-size: 16px; font-weight: 400; text-align: left; }
+    body { background: linear-gradient(180deg, #f7f9fc 0%, #ffffff 100%); }
+
+    /* padding-top для основного контейнера приложения */
+    [data-testid="stMainBlockContainer"] {
+        padding-top: 18px !important;
+    }
+     .card { 
+         padding: 18px; 
+         border-radius: 12px; 
+         background: transparent; 
+         box-shadow: none;
+         width: 100%;
+         max-width: 1200px;
+         margin: 0 auto;
+         box-sizing: border-box;
+     }
+    .header { display: flex; align-items: center; gap: 12px; margin-bottom: 20px; }
+    .tense-title { margin-top: 12px; margin-bottom: 6px; font-weight: 600; border-bottom: none; display: inline-block; color: #333; text-align: left; }
+    .custom-table { width: 100%; border-collapse: collapse; margin-bottom: 20px; font-size: 14px; }
+    .custom-table th { text-align: left; padding: 6px; border-bottom: 1px solid #eee; color: #666; }
+    .custom-table td { padding: 6px; border-bottom: 1px solid #f9f9f9; }
+    .conj-list { list-style: none; padding: 0 !important; margin: 8px 0 0px 0; }
+    .conj-item { padding: 4px 0 !important; border-bottom: 1px solid #f3f3f3; margin: 0 !important; list-style-type: none; }
+    .conj-pronoun { color: #888; font-size: 13px; margin-bottom: 0px !important; text-align: left; }
+    .conj-verb { color: #111; font-size: 16px; font-weight: 400; text-align: left; }
     
     /* Сетка результатов */
     .tenses-container {
