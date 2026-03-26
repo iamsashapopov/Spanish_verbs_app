@@ -1,3 +1,4 @@
+import base64
 import json
 import os
 import unicodedata
@@ -6,6 +7,7 @@ from pathlib import Path
 import streamlit as st
 
 LOG_PATH = "/Users/sashapopov/Desktop/spanish_app/.cursor/debug.log"
+VERBS_FILE = "/Users/sashapopov/Desktop/spanish_app/verbs.json"
 
 
 def _write_log(event: str, data: dict | None = None):
@@ -80,7 +82,7 @@ if ensure_translation_field(verbs_db):
     save_verbs(verbs_db)
 
 st.set_page_config(
-    page_title="Спряжение испанских глаголов",
+    page_title="Spanish verbs",
     page_icon="🇪🇸",
     layout="wide",
 )
