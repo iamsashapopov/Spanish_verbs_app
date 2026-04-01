@@ -9193,7 +9193,7 @@
       "festejaréis",
       "festejarán"
     ],
-    "translation_en": "to celebrate / to party"
+    "translation_en": "to celebrate"
   },
   "disfrutar": {
     "infinitive": "disfrutar",
@@ -20589,7 +20589,7 @@
       "formaréis",
       "formarán"
     ],
-    "translation_en": "to form"
+    "translation_en": "to form / to shape"
   },
   "formular": {
     "infinitive": "formular",
@@ -20985,7 +20985,7 @@
       "frenaréis",
       "frenarán"
     ],
-    "translation_en": "to brake"
+    "translation_en": "to brake / to slow down"
   },
   "frotar": {
     "infinitive": "frotar",
@@ -21690,5 +21690,4053 @@
       "gratificarán"
     ],
     "translation_en": "to gratify / to reward"
+  },
+  "hornear": {
+    "infinitive": "hornear",
+    "presente": [
+      "horneo",
+      "horneas",
+      "hornea",
+      "horneamos",
+      "horneáis",
+      "hornean"
+    ],
+    "preterito_indefinido": [
+      "horneé",
+      "horneaste",
+      "horneó",
+      "horneamos",
+      "horneasteis",
+      "hornearon"
+    ],
+    "preterito_perfecto": [
+      "he horneado",
+      "has horneado",
+      "ha horneado",
+      "hemos horneado",
+      "habéis horneado",
+      "han horneado"
+    ],
+    "preterito_imperfecto": [
+      "horneaba",
+      "horneabas",
+      "horneaba",
+      "horneábamos",
+      "horneabais",
+      "horneaban"
+    ],
+    "futuro_simple": [
+      "hornearé",
+      "hornearás",
+      "horneará",
+      "hornearemos",
+      "hornearéis",
+      "hornearán"
+    ],
+    "translation_en": "to bake"
+  },
+  "importar": {
+    "infinitive": "importar",
+    "presente": [
+      "importo",
+      "importas",
+      "importa",
+      "importamos",
+      "importáis",
+      "importan"
+    ],
+    "preterito_indefinido": [
+      "importé",
+      "importaste",
+      "importó",
+      "importamos",
+      "importasteis",
+      "importaron"
+    ],
+    "preterito_perfecto": [
+      "he importado",
+      "has importado",
+      "ha importado",
+      "hemos importado",
+      "habéis importado",
+      "han importado"
+    ],
+    "preterito_imperfecto": [
+      "importaba",
+      "importabas",
+      "importaba",
+      "importábamos",
+      "importabais",
+      "importaban"
+    ],
+    "futuro_simple": [
+      "importaré",
+      "importarás",
+      "importará",
+      "importaremos",
+      "importaréis",
+      "importarán"
+    ],
+    "translation_en": "to matter / to import"
+  },
+  "imprimir": {
+    "infinitive": "imprimir",
+    "presente": [
+      "imprimo",
+      "imprimes",
+      "imprime",
+      "imprimimos",
+      "imprimís",
+      "imprimen"
+    ],
+    "preterito_indefinido": [
+      "imprimí",
+      "imprimiste",
+      "imprimió",
+      "imprimimos",
+      "imprimisteis",
+      "imprimieron"
+    ],
+    "preterito_perfecto": [
+      "he impreso",
+      "has impreso",
+      "ha impreso",
+      "hemos impreso",
+      "habéis impreso",
+      "han impreso"
+    ],
+    "preterito_imperfecto": [
+      "imprimía",
+      "imprimías",
+      "imprimía",
+      "imprimíamos",
+      "imprimíais",
+      "imprimían"
+    ],
+    "futuro_simple": [
+      "imprimiré",
+      "imprimirás",
+      "imprimirá",
+      "imprimiremos",
+      "imprimiréis",
+      "imprimirán"
+    ],
+    "translation_en": "to print"
+  },
+  "insultar": {
+    "infinitive": "insultar",
+    "presente": [
+      "insulto",
+      "insultas",
+      "insulta",
+      "insultamos",
+      "insultáis",
+      "insultan"
+    ],
+    "preterito_indefinido": [
+      "insulté",
+      "insultaste",
+      "insultó",
+      "insultamos",
+      "insultasteis",
+      "insultaron"
+    ],
+    "preterito_perfecto": [
+      "he insultado",
+      "has insultado",
+      "ha insultado",
+      "hemos insultado",
+      "habéis insultado",
+      "han insultado"
+    ],
+    "preterito_imperfecto": [
+      "insultaba",
+      "insultabas",
+      "insultaba",
+      "insultábamos",
+      "insultabais",
+      "insultaban"
+    ],
+    "futuro_simple": [
+      "insultaré",
+      "insultarás",
+      "insultará",
+      "insultaremos",
+      "insultaréis",
+      "insultarán"
+    ],
+    "translation_en": "to insult"
+  },
+  "irritar": {
+    "infinitive": "irritar",
+    "presente": [
+      "irrito",
+      "irritas",
+      "irrita",
+      "irritamos",
+      "irritáis",
+      "irritan"
+    ],
+    "preterito_indefinido": [
+      "irrité",
+      "irritaste",
+      "irritó",
+      "irritamos",
+      "irritasteis",
+      "irritaron"
+    ],
+    "preterito_perfecto": [
+      "he irritado",
+      "has irritado",
+      "ha irritado",
+      "hemos irritado",
+      "habéis irritado",
+      "han irritado"
+    ],
+    "preterito_imperfecto": [
+      "irritaba",
+      "irritabas",
+      "irritaba",
+      "irritábamos",
+      "irritabais",
+      "irritaban"
+    ],
+    "futuro_simple": [
+      "irritaré",
+      "irritarás",
+      "irritará",
+      "irritaremos",
+      "irritaréis",
+      "irritarán"
+    ],
+    "translation_en": "to irritate"
+  },
+  "ladrar": {
+    "infinitive": "ladrar",
+    "presente": [
+      "ladro",
+      "ladras",
+      "ladra",
+      "ladramos",
+      "ladráis",
+      "ladran"
+    ],
+    "preterito_indefinido": [
+      "ladré",
+      "ladraste",
+      "ladró",
+      "ladramos",
+      "ladrasteis",
+      "ladraron"
+    ],
+    "preterito_perfecto": [
+      "he ladrado",
+      "has ladrado",
+      "ha ladrado",
+      "hemos ladrado",
+      "habéis ladrado",
+      "han ladrado"
+    ],
+    "preterito_imperfecto": [
+      "ladraba",
+      "ladrabas",
+      "ladraba",
+      "ladrábamos",
+      "ladrabais",
+      "ladraban"
+    ],
+    "futuro_simple": [
+      "ladraré",
+      "ladrarás",
+      "ladrará",
+      "ladraremos",
+      "ladraréis",
+      "ladrarán"
+    ],
+    "translation_en": "to bark"
+  },
+  "lanzar": {
+    "infinitive": "lanzar",
+    "presente": [
+      "lanzo",
+      "lanzas",
+      "lanza",
+      "lanzamos",
+      "lanzáis",
+      "lanzan"
+    ],
+    "preterito_indefinido": [
+      "lancé",
+      "lanzaste",
+      "lanzó",
+      "lanzamos",
+      "lanzasteis",
+      "lanzaron"
+    ],
+    "preterito_perfecto": [
+      "he lanzado",
+      "has lanzado",
+      "ha lanzado",
+      "hemos lanzado",
+      "habéis lanzado",
+      "han lanzado"
+    ],
+    "preterito_imperfecto": [
+      "lanzaba",
+      "lanzabas",
+      "lanzaba",
+      "lanzábamos",
+      "lanzabais",
+      "lanzaban"
+    ],
+    "futuro_simple": [
+      "lanzaré",
+      "lanzarás",
+      "lanzará",
+      "lanzaremos",
+      "lanzaréis",
+      "lanzarán"
+    ],
+    "translation_en": "to throw / to launch"
+  },
+  "liberar": {
+    "infinitive": "liberar",
+    "presente": [
+      "libero",
+      "liberas",
+      "libera",
+      "liberamos",
+      "liberáis",
+      "liberan"
+    ],
+    "preterito_indefinido": [
+      "liberé",
+      "liberaste",
+      "liberó",
+      "liberamos",
+      "liberasteis",
+      "liberaron"
+    ],
+    "preterito_perfecto": [
+      "he liberado",
+      "has liberado",
+      "ha liberado",
+      "hemos liberado",
+      "habéis liberado",
+      "han liberado"
+    ],
+    "preterito_imperfecto": [
+      "liberaba",
+      "liberabas",
+      "liberaba",
+      "liberábamos",
+      "liberabais",
+      "liberaban"
+    ],
+    "futuro_simple": [
+      "liberaré",
+      "liberarás",
+      "liberará",
+      "liberaremos",
+      "liberaréis",
+      "liberarán"
+    ],
+    "translation_en": "to free / to liberate"
+  },
+  "licuar": {
+    "infinitive": "licuar",
+    "presente": [
+      "licúo",
+      "licúas",
+      "licúa",
+      "licuamos",
+      "licuáis",
+      "licúan"
+    ],
+    "preterito_indefinido": [
+      "licué",
+      "licuaste",
+      "licuó",
+      "licuamos",
+      "licuasteis",
+      "licuaron"
+    ],
+    "preterito_perfecto": [
+      "he licuado",
+      "has licuado",
+      "ha licuado",
+      "hemos licuado",
+      "habéis licuado",
+      "han licuado"
+    ],
+    "preterito_imperfecto": [
+      "licuaba",
+      "licuabas",
+      "licuaba",
+      "licuábamos",
+      "licuabais",
+      "licuaban"
+    ],
+    "futuro_simple": [
+      "licuaré",
+      "licuarás",
+      "licuará",
+      "licuaremos",
+      "licuaréis",
+      "licuarán"
+    ],
+    "translation_en": "to blend / to liquefy"
+  },
+  "liderar": {
+    "infinitive": "liderar",
+    "presente": [
+      "lidero",
+      "lideras",
+      "lidera",
+      "lideramos",
+      "lideráis",
+      "lideran"
+    ],
+    "preterito_indefinido": [
+      "lideré",
+      "lideraste",
+      "lideró",
+      "lideramos",
+      "liderasteis",
+      "lideraron"
+    ],
+    "preterito_perfecto": [
+      "he liderado",
+      "has liderado",
+      "ha liderado",
+      "hemos liderado",
+      "habéis liderado",
+      "han liderado"
+    ],
+    "preterito_imperfecto": [
+      "lideraba",
+      "liderabas",
+      "lideraba",
+      "liderábamos",
+      "liderabais",
+      "lideraban"
+    ],
+    "futuro_simple": [
+      "lideraré",
+      "liderarás",
+      "liderará",
+      "lideraremos",
+      "lideraréis",
+      "liderarán"
+    ],
+    "translation_en": "to lead"
+  },
+  "limitar": {
+    "infinitive": "limitar",
+    "presente": [
+      "limito",
+      "limitas",
+      "limita",
+      "limitamos",
+      "limitáis",
+      "limitan"
+    ],
+    "preterito_indefinido": [
+      "limité",
+      "limitaste",
+      "limitó",
+      "limitamos",
+      "limitasteis",
+      "limitaron"
+    ],
+    "preterito_perfecto": [
+      "he limitado",
+      "has limitado",
+      "ha limitado",
+      "hemos limitado",
+      "habéis limitado",
+      "han limitado"
+    ],
+    "preterito_imperfecto": [
+      "limitaba",
+      "limitabas",
+      "limitaba",
+      "limitábamos",
+      "limitabais",
+      "limitaban"
+    ],
+    "futuro_simple": [
+      "limitaré",
+      "limitarás",
+      "limitará",
+      "limitaremos",
+      "limitaréis",
+      "limitarán"
+    ],
+    "translation_en": "to limit"
+  },
+  "maldecir": {
+    "infinitive": "maldecir",
+    "presente": [
+      "maldigo",
+      "maldices",
+      "maldice",
+      "maldecimos",
+      "maldecís",
+      "maldicen"
+    ],
+    "preterito_indefinido": [
+      "maldije",
+      "maldijiste",
+      "maldijo",
+      "maldijimos",
+      "maldijisteis",
+      "maldijeron"
+    ],
+    "preterito_perfecto": [
+      "he maldecido",
+      "has maldecido",
+      "ha maldecido",
+      "hemos maldecido",
+      "habéis maldecido",
+      "han maldecido"
+    ],
+    "preterito_imperfecto": [
+      "maldecía",
+      "maldecías",
+      "maldecía",
+      "maldecíamos",
+      "maldecíais",
+      "maldecían"
+    ],
+    "futuro_simple": [
+      "maldeciré",
+      "maldecirás",
+      "maldecirá",
+      "maldeciremos",
+      "maldeciréis",
+      "maldecirán"
+    ],
+    "translation_en": "to curse"
+  },
+  "marcar": {
+    "infinitive": "marcar",
+    "presente": [
+      "marco",
+      "marcas",
+      "marca",
+      "marcamos",
+      "marcáis",
+      "marcan"
+    ],
+    "preterito_indefinido": [
+      "marqué",
+      "marcaste",
+      "marcó",
+      "marcamos",
+      "marcasteis",
+      "marcaron"
+    ],
+    "preterito_perfecto": [
+      "he marcado",
+      "has marcado",
+      "ha marcado",
+      "hemos marcado",
+      "habéis marcado",
+      "han marcado"
+    ],
+    "preterito_imperfecto": [
+      "marcaba",
+      "marcabas",
+      "marcaba",
+      "marcábamos",
+      "marcabais",
+      "marcaban"
+    ],
+    "futuro_simple": [
+      "marcaré",
+      "marcarás",
+      "marcará",
+      "marcaremos",
+      "marcaréis",
+      "marcarán"
+    ],
+    "translation_en": "to mark / to dial"
+  },
+  "masticar": {
+    "infinitive": "masticar",
+    "presente": [
+      "mastico",
+      "masticas",
+      "mastica",
+      "masticamos",
+      "masticáis",
+      "mastican"
+    ],
+    "preterito_indefinido": [
+      "mastiqué",
+      "masticaste",
+      "masticó",
+      "masticamos",
+      "masticasteis",
+      "masticaron"
+    ],
+    "preterito_perfecto": [
+      "he masticado",
+      "has masticado",
+      "ha masticado",
+      "hemos masticado",
+      "habéis masticado",
+      "han masticado"
+    ],
+    "preterito_imperfecto": [
+      "masticaba",
+      "masticabas",
+      "masticaba",
+      "masticábamos",
+      "masticabais",
+      "masticaban"
+    ],
+    "futuro_simple": [
+      "masticaré",
+      "masticarás",
+      "masticará",
+      "masticaremos",
+      "masticaréis",
+      "masticarán"
+    ],
+    "translation_en": "to chew"
+  },
+  "matar": {
+    "infinitive": "matar",
+    "presente": [
+      "mato",
+      "matas",
+      "mata",
+      "matamos",
+      "matáis",
+      "matan"
+    ],
+    "preterito_indefinido": [
+      "maté",
+      "mataste",
+      "mató",
+      "matamos",
+      "matasteis",
+      "mataron"
+    ],
+    "preterito_perfecto": [
+      "he matado",
+      "has matado",
+      "ha matado",
+      "hemos matado",
+      "habéis matado",
+      "han matado"
+    ],
+    "preterito_imperfecto": [
+      "mataba",
+      "matabas",
+      "mataba",
+      "matábamos",
+      "matabais",
+      "mataban"
+    ],
+    "futuro_simple": [
+      "mataré",
+      "matarás",
+      "matará",
+      "mataremos",
+      "mataréis",
+      "matarán"
+    ],
+    "translation_en": "to kill"
+  },
+  "maулlar": {
+    "infinitive": "maullar",
+    "presente": [
+      "maúllo",
+      "maúllas",
+      "maúlla",
+      "maullamos",
+      "maulláis",
+      "maúllan"
+    ],
+    "preterito_indefinido": [
+      "maullé",
+      "maullaste",
+      "maulló",
+      "maullamos",
+      "maullasteis",
+      "maullaron"
+    ],
+    "preterito_perfecto": [
+      "he maullado",
+      "has maullado",
+      "ha maullado",
+      "hemos maullado",
+      "habéis maullado",
+      "han maullado"
+    ],
+    "preterito_imperfecto": [
+      "maullaba",
+      "maullabas",
+      "maullaba",
+      "maullábamos",
+      "maullabais",
+      "maullaban"
+    ],
+    "futuro_simple": [
+      "maullaré",
+      "maullarás",
+      "maullará",
+      "maullaremos",
+      "maullaréis",
+      "maullarán"
+    ],
+    "translation_en": "to meow"
+  },
+  "modificar": {
+    "infinitive": "modificar",
+    "presente": [
+      "modifico",
+      "modificas",
+      "modifica",
+      "modificamos",
+      "modificáis",
+      "modifican"
+    ],
+    "preterito_indefinido": [
+      "modifiqué",
+      "modificaste",
+      "modificó",
+      "modificamos",
+      "modificasteis",
+      "modificaron"
+    ],
+    "preterito_perfecto": [
+      "he modificado",
+      "has modificado",
+      "ha modificado",
+      "hemos modificado",
+      "habéis modificado",
+      "han modificado"
+    ],
+    "preterito_imperfecto": [
+      "modificaba",
+      "modificabas",
+      "modificaba",
+      "modificábamos",
+      "modificabais",
+      "modificaban"
+    ],
+    "futuro_simple": [
+      "modificaré",
+      "modificarás",
+      "modificará",
+      "modificaremos",
+      "modificaréis",
+      "modificarán"
+    ],
+    "translation_en": "to modify"
+  },
+  "mojar": {
+    "infinitive": "mojar",
+    "presente": [
+      "mojo",
+      "mojas",
+      "moja",
+      "mojamos",
+      "mojáis",
+      "mojan"
+    ],
+    "preterito_indefinido": [
+      "mojé",
+      "mojaste",
+      "mojó",
+      "mojamos",
+      "mojasteis",
+      "mojaron"
+    ],
+    "preterito_perfecto": [
+      "he mojado",
+      "has mojado",
+      "ha mojado",
+      "hemos mojado",
+      "habéis mojado",
+      "han mojado"
+    ],
+    "preterito_imperfecto": [
+      "mojaba",
+      "mojabas",
+      "mojaba",
+      "mojábamos",
+      "mojabais",
+      "mojaban"
+    ],
+    "futuro_simple": [
+      "mojaré",
+      "mojarás",
+      "mojará",
+      "mojaremos",
+      "mojaréis",
+      "mojarán"
+    ],
+    "translation_en": "to wet / to dip"
+  },
+  "molestar": {
+    "infinitive": "molestar",
+    "presente": [
+      "molesto",
+      "molestas",
+      "molesta",
+      "molestamos",
+      "molestáis",
+      "molestan"
+    ],
+    "preterito_indefinido": [
+      "molesté",
+      "molestaste",
+      "molestó",
+      "molestamos",
+      "molestasteis",
+      "molestaron"
+    ],
+    "preterito_perfecto": [
+      "he molestado",
+      "has molestado",
+      "ha molestado",
+      "hemos molestado",
+      "habéis molestado",
+      "han molestado"
+    ],
+    "preterito_imperfecto": [
+      "molestaba",
+      "molestabas",
+      "molestaba",
+      "molestábamos",
+      "molestabais",
+      "molestaban"
+    ],
+    "futuro_simple": [
+      "molestaré",
+      "molestarás",
+      "molestará",
+      "molestaremos",
+      "molestaréis",
+      "molestarán"
+    ],
+    "translation_en": "to bother / to annoy"
+  },
+  "montar": {
+    "infinitive": "montar",
+    "presente": [
+      "monto",
+      "montas",
+      "monta",
+      "montamos",
+      "montáis",
+      "montan"
+    ],
+    "preterito_indefinido": [
+      "monté",
+      "montaste",
+      "montó",
+      "montamos",
+      "montasteis",
+      "montaron"
+    ],
+    "preterito_perfecto": [
+      "he montado",
+      "has montado",
+      "ha montado",
+      "hemos montado",
+      "habéis montado",
+      "han montado"
+    ],
+    "preterito_imperfecto": [
+      "montaba",
+      "montabas",
+      "montaba",
+      "montábamos",
+      "montabais",
+      "montaban"
+    ],
+    "futuro_simple": [
+      "montaré",
+      "montarás",
+      "montará",
+      "montaremos",
+      "montaréis",
+      "montarán"
+    ],
+    "translation_en": "to ride / to mount"
+  },
+  "mudarse": {
+    "infinitive": "mudarse",
+    "presente": [
+      "me mudo",
+      "te mudas",
+      "se muda",
+      "nos mudamos",
+      "os mudáis",
+      "se mudan"
+    ],
+    "preterito_indefinido": [
+      "me mudé",
+      "te mudaste",
+      "se mudó",
+      "nos mudamos",
+      "os mudasteis",
+      "se mudaron"
+    ],
+    "preterito_perfecto": [
+      "me he mudado",
+      "te has mudado",
+      "se ha mudado",
+      "nos hemos mudado",
+      "os habéis mudado",
+      "se han mudado"
+    ],
+    "preterito_imperfecto": [
+      "me mudaba",
+      "te mudabas",
+      "se mudaba",
+      "nos mudábamos",
+      "os mudabais",
+      "se mudaban"
+    ],
+    "futuro_simple": [
+      "me mudaré",
+      "te mudarás",
+      "se mudará",
+      "nos mudaremos",
+      "os mudaréis",
+      "se mudarán"
+    ],
+    "translation_en": "to move (residence)"
+  },
+  "negociar": {
+    "infinitive": "negociar",
+    "presente": [
+      "negocio",
+      "negocias",
+      "negocia",
+      "negociamos",
+      "negociáis",
+      "negocian"
+    ],
+    "preterito_indefinido": [
+      "negocié",
+      "negociaste",
+      "negoció",
+      "negociamos",
+      "negociasteis",
+      "negociaron"
+    ],
+    "preterito_perfecto": [
+      "he negociado",
+      "has negociado",
+      "ha negociado",
+      "hemos negociado",
+      "habéis negociado",
+      "han negociado"
+    ],
+    "preterito_imperfecto": [
+      "negociaba",
+      "negociabas",
+      "negociaba",
+      "negociábamos",
+      "negociabais",
+      "negociaban"
+    ],
+    "futuro_simple": [
+      "negociaré",
+      "negociarás",
+      "negociará",
+      "negociaremos",
+      "negociaréis",
+      "negociarán"
+    ],
+    "translation_en": "to negotiate"
+  },
+  "nevаr": {
+    "infinitive": "nevar",
+    "presente": [
+      "nievo",
+      "nievas",
+      "nieva",
+      "nevamos",
+      "neváis",
+      "nievan"
+    ],
+    "preterito_indefinido": [
+      "nevé",
+      "nevaste",
+      "nevó",
+      "nevamos",
+      "nevasteis",
+      "nevaron"
+    ],
+    "preterito_perfecto": [
+      "he nevado",
+      "has nevado",
+      "ha nevado",
+      "hemos nevado",
+      "habéis nevado",
+      "han nevado"
+    ],
+    "preterito_imperfecto": [
+      "nevaba",
+      "nevabas",
+      "nevaba",
+      "nevábamos",
+      "nevabais",
+      "nevaban"
+    ],
+    "futuro_simple": [
+      "nevaré",
+      "nevarás",
+      "nevará",
+      "nevaremos",
+      "nevaréis",
+      "nevarán"
+    ],
+    "translation_en": "to snow"
+  },
+  "ocultar": {
+    "infinitive": "ocultar",
+    "presente": [
+      "oculto",
+      "ocultas",
+      "oculta",
+      "ocultamos",
+      "ocultáis",
+      "ocultan"
+    ],
+    "preterito_indefinido": [
+      "oculté",
+      "ocultaste",
+      "ocultó",
+      "ocultamos",
+      "ocultasteis",
+      "ocultaron"
+    ],
+    "preterito_perfecto": [
+      "he ocultado",
+      "has ocultado",
+      "ha ocultado",
+      "hemos ocultado",
+      "habéis ocultado",
+      "han ocultado"
+    ],
+    "preterito_imperfecto": [
+      "ocultaba",
+      "ocultabas",
+      "ocultaba",
+      "ocultábamos",
+      "ocultabais",
+      "ocultaban"
+    ],
+    "futuro_simple": [
+      "ocultaré",
+      "ocultarás",
+      "ocultará",
+      "ocultaremos",
+      "ocultaréis",
+      "ocultarán"
+    ],
+    "translation_en": "to hide / to conceal"
+  },
+  "ocupar": {
+    "infinitive": "ocupar",
+    "presente": [
+      "ocupo",
+      "ocupas",
+      "ocupa",
+      "ocupamos",
+      "ocupáis",
+      "ocupan"
+    ],
+    "preterito_indefinido": [
+      "ocupé",
+      "ocupaste",
+      "ocupó",
+      "ocupamos",
+      "ocupasteis",
+      "ocuparon"
+    ],
+    "preterito_perfecto": [
+      "he ocupado",
+      "has ocupado",
+      "ha ocupado",
+      "hemos ocupado",
+      "habéis ocupado",
+      "han ocupado"
+    ],
+    "preterito_imperfecto": [
+      "ocupaba",
+      "ocupabas",
+      "ocupaba",
+      "ocupábamos",
+      "ocupabais",
+      "ocupaban"
+    ],
+    "futuro_simple": [
+      "ocuparé",
+      "ocuparás",
+      "ocupará",
+      "ocuparemos",
+      "ocuparéis",
+      "ocuparán"
+    ],
+    "translation_en": "to occupy"
+  },
+  "patinar": {
+    "infinitive": "patinar",
+    "presente": [
+      "patino",
+      "patinas",
+      "patina",
+      "patinamos",
+      "patináis",
+      "patinan"
+    ],
+    "preterito_indefinido": [
+      "patiné",
+      "patinaste",
+      "patinó",
+      "patinamos",
+      "patinasteis",
+      "patinaron"
+    ],
+    "preterito_perfecto": [
+      "he patinado",
+      "has patinado",
+      "ha patinado",
+      "hemos patinado",
+      "habéis patinado",
+      "han patinado"
+    ],
+    "preterito_imperfecto": [
+      "patinaba",
+      "patinabas",
+      "patinaba",
+      "patinábamos",
+      "patinabais",
+      "patinaban"
+    ],
+    "futuro_simple": [
+      "patinaré",
+      "patinarás",
+      "patinará",
+      "patinaremos",
+      "patinaréis",
+      "patinarán"
+    ],
+    "translation_en": "to skate"
+  },
+  "pecar": {
+    "infinitive": "pecar",
+    "presente": [
+      "peco",
+      "pecas",
+      "peca",
+      "pecamos",
+      "pecáis",
+      "pecan"
+    ],
+    "preterito_indefinido": [
+      "pequé",
+      "pecaste",
+      "pecó",
+      "pecamos",
+      "pecasteis",
+      "pecaron"
+    ],
+    "preterito_perfecto": [
+      "he pecado",
+      "has pecado",
+      "ha pecado",
+      "hemos pecado",
+      "habéis pecado",
+      "han pecado"
+    ],
+    "preterito_imperfecto": [
+      "pecaba",
+      "pecabas",
+      "pecaba",
+      "pecábamos",
+      "pecabais",
+      "pecaban"
+    ],
+    "futuro_simple": [
+      "pecaré",
+      "pecarás",
+      "pecará",
+      "pecaremos",
+      "pecaréis",
+      "pecarán"
+    ],
+    "translation_en": "to sin"
+  },
+  "pescar": {
+    "infinitive": "pescar",
+    "presente": [
+      "pesco",
+      "pescas",
+      "pesca",
+      "pescamos",
+      "pescáis",
+      "pescan"
+    ],
+    "preterito_indefinido": [
+      "pesqué",
+      "pescaste",
+      "pescó",
+      "pescamos",
+      "pescasteis",
+      "pescaron"
+    ],
+    "preterito_perfecto": [
+      "he pescado",
+      "has pescado",
+      "ha pescado",
+      "hemos pescado",
+      "habéis pescado",
+      "han pescado"
+    ],
+    "preterito_imperfecto": [
+      "pescaba",
+      "pescabas",
+      "pescaba",
+      "pescábamos",
+      "pescabais",
+      "pescaban"
+    ],
+    "futuro_simple": [
+      "pescaré",
+      "pescarás",
+      "pescará",
+      "pescaremos",
+      "pescaréis",
+      "pescarán"
+    ],
+    "translation_en": "to fish"
+  },
+  "picar": {
+    "infinitive": "picar",
+    "presente": [
+      "pico",
+      "picas",
+      "pica",
+      "picamos",
+      "picáis",
+      "pican"
+    ],
+    "preterito_indefinido": [
+      "piqué",
+      "picaste",
+      "picó",
+      "picamos",
+      "picasteis",
+      "picaron"
+    ],
+    "preterito_perfecto": [
+      "he picado",
+      "has picado",
+      "ha picado",
+      "hemos picado",
+      "habéis picado",
+      "han picado"
+    ],
+    "preterito_imperfecto": [
+      "picaba",
+      "picabas",
+      "picaba",
+      "picábamos",
+      "picabais",
+      "picaban"
+    ],
+    "futuro_simple": [
+      "picaré",
+      "picarás",
+      "picará",
+      "picaremos",
+      "picaréis",
+      "picarán"
+    ],
+    "translation_en": "to sting / to bite / to chop"
+  },
+  "pintar": {
+    "infinitive": "pintar",
+    "presente": [
+      "pinto",
+      "pintas",
+      "pinta",
+      "pintamos",
+      "pintáis",
+      "pintan"
+    ],
+    "preterito_indefinido": [
+      "pinté",
+      "pintaste",
+      "pintó",
+      "pintamos",
+      "pintasteis",
+      "pintaron"
+    ],
+    "preterito_perfecto": [
+      "he pintado",
+      "has pintado",
+      "ha pintado",
+      "hemos pintado",
+      "habéis pintado",
+      "han pintado"
+    ],
+    "preterito_imperfecto": [
+      "pintaba",
+      "pintabas",
+      "pintaba",
+      "pintábamos",
+      "pintabais",
+      "pintaban"
+    ],
+    "futuro_simple": [
+      "pintaré",
+      "pintarás",
+      "pintará",
+      "pintaremos",
+      "pintaréis",
+      "pintarán"
+    ],
+    "translation_en": "to paint"
+  },
+  "planchar": {
+    "infinitive": "planchar",
+    "presente": [
+      "plancho",
+      "planchas",
+      "plancha",
+      "planchamos",
+      "plancháis",
+      "planchan"
+    ],
+    "preterito_indefinido": [
+      "planché",
+      "planchaste",
+      "planchó",
+      "planchamos",
+      "planchasteis",
+      "plancharon"
+    ],
+    "preterito_perfecto": [
+      "he planchado",
+      "has planchado",
+      "ha planchado",
+      "hemos planchado",
+      "habéis planchado",
+      "han planchado"
+    ],
+    "preterito_imperfecto": [
+      "planchaba",
+      "planchabas",
+      "planchaba",
+      "planchábamos",
+      "planchabais",
+      "planchaban"
+    ],
+    "futuro_simple": [
+      "plancharé",
+      "plancharás",
+      "planchará",
+      "plancharemos",
+      "plancharéis",
+      "plancharán"
+    ],
+    "translation_en": "to iron"
+  },
+  "plantar": {
+    "infinitive": "plantar",
+    "presente": [
+      "planto",
+      "plantas",
+      "planta",
+      "plantamos",
+      "plantáis",
+      "plantan"
+    ],
+    "preterito_indefinido": [
+      "planté",
+      "plantaste",
+      "plantó",
+      "plantamos",
+      "plantasteis",
+      "plantaron"
+    ],
+    "preterito_perfecto": [
+      "he plantado",
+      "has plantado",
+      "ha plantado",
+      "hemos plantado",
+      "habéis plantado",
+      "han plantado"
+    ],
+    "preterito_imperfecto": [
+      "plantaba",
+      "plantabas",
+      "plantaba",
+      "plantábamos",
+      "plantabais",
+      "plantaban"
+    ],
+    "futuro_simple": [
+      "plantaré",
+      "plantarás",
+      "plantará",
+      "plantaremos",
+      "plantaréis",
+      "plantarán"
+    ],
+    "translation_en": "to plant"
+  },
+  "plogar": {
+    "infinitive": "plegar",
+    "presente": [
+      "pliego",
+      "pliegas",
+      "pliega",
+      "plegamos",
+      "plegáis",
+      "pliegan"
+    ],
+    "preterito_indefinido": [
+      "plegué",
+      "plegaste",
+      "plegó",
+      "plegamos",
+      "plegasteis",
+      "plegaron"
+    ],
+    "preterito_perfecto": [
+      "he plegado",
+      "has plegado",
+      "ha plegado",
+      "hemos plegado",
+      "habéis plegado",
+      "han plegado"
+    ],
+    "preterito_imperfecto": [
+      "plegaba",
+      "plegabas",
+      "plegaba",
+      "plegábamos",
+      "plegabais",
+      "plegaban"
+    ],
+    "futuro_simple": [
+      "plegaré",
+      "plegarás",
+      "plegará",
+      "plegaremos",
+      "plegaréis",
+      "plegarán"
+    ],
+    "translation_en": "to fold"
+  },
+  "postear": {
+    "infinitive": "postear",
+    "presente": [
+      "posteo",
+      "posteas",
+      "postea",
+      "posteamos",
+      "posteáis",
+      "postean"
+    ],
+    "preterito_indefinido": [
+      "posteé",
+      "posteaste",
+      "posteó",
+      "posteamos",
+      "posteasteis",
+      "postearon"
+    ],
+    "preterito_perfecto": [
+      "he posteado",
+      "has posteado",
+      "ha posteado",
+      "hemos posteado",
+      "habéis posteado",
+      "han posteado"
+    ],
+    "preterito_imperfecto": [
+      "posteaba",
+      "posteabas",
+      "posteaba",
+      "posteábamos",
+      "posteabais",
+      "posteaban"
+    ],
+    "futuro_simple": [
+      "postearé",
+      "postearás",
+      "posteará",
+      "postearemos",
+      "postearéis",
+      "postearán"
+    ],
+    "translation_en": "to post (social media)"
+  },
+  "predicar": {
+    "infinitive": "predicar",
+    "presente": [
+      "predico",
+      "predicas",
+      "predica",
+      "predicamos",
+      "predicáis",
+      "predican"
+    ],
+    "preterito_indefinido": [
+      "prediqué",
+      "predicaste",
+      "predicó",
+      "predicamos",
+      "predicasteis",
+      "predicaron"
+    ],
+    "preterito_perfecto": [
+      "he predicado",
+      "has predicado",
+      "ha predicado",
+      "hemos predicado",
+      "habéis predicado",
+      "han predicado"
+    ],
+    "preterito_imperfecto": [
+      "predicaba",
+      "predicabas",
+      "predicaba",
+      "predicábamos",
+      "predicabais",
+      "predicaban"
+    ],
+    "futuro_simple": [
+      "predicaré",
+      "predicarás",
+      "predicará",
+      "predicaremos",
+      "predicaréis",
+      "predicarán"
+    ],
+    "translation_en": "to preach"
+  },
+  "predecir": {
+    "infinitive": "predecir",
+    "presente": [
+      "predigo",
+      "predices",
+      "predice",
+      "predecimos",
+      "predecís",
+      "predicen"
+    ],
+    "preterito_indefinido": [
+      "predije",
+      "predijiste",
+      "predijo",
+      "predijimos",
+      "predijisteis",
+      "predijeron"
+    ],
+    "preterito_perfecto": [
+      "he predicho",
+      "has predicho",
+      "ha predicho",
+      "hemos predicho",
+      "habéis predicho",
+      "han predicho"
+    ],
+    "preterito_imperfecto": [
+      "predecía",
+      "predecías",
+      "predecía",
+      "predecíamos",
+      "predecíais",
+      "predecían"
+    ],
+    "futuro_simple": [
+      "predeciré",
+      "predecirás",
+      "predecirá",
+      "predeciremos",
+      "predeciréis",
+      "predecirán"
+    ],
+    "translation_en": "to predict"
+  },
+  "presionar": {
+    "infinitive": "presionar",
+    "presente": [
+      "presiono",
+      "presionas",
+      "presiona",
+      "presionamos",
+      "presionáis",
+      "presionan"
+    ],
+    "preterito_indefinido": [
+      "presioné",
+      "presionaste",
+      "presionó",
+      "presionamos",
+      "presionasteis",
+      "presionaron"
+    ],
+    "preterito_perfecto": [
+      "he presionado",
+      "has presionado",
+      "ha presionado",
+      "hemos presionado",
+      "habéis presionado",
+      "han presionado"
+    ],
+    "preterito_imperfecto": [
+      "presionaba",
+      "presionabas",
+      "presionaba",
+      "presionábamos",
+      "presionabais",
+      "presionaban"
+    ],
+    "futuro_simple": [
+      "presionaré",
+      "presionarás",
+      "presionará",
+      "presionaremos",
+      "presionaréis",
+      "presionarán"
+    ],
+    "translation_en": "to press / to pressure"
+  },
+  "progresar": {
+    "infinitive": "progresar",
+    "presente": [
+      "progreso",
+      "prograсas",
+      "progresa",
+      "progresamos",
+      "progresáis",
+      "progresan"
+    ],
+    "preterito_indefinido": [
+      "progresé",
+      "progresaste",
+      "progresó",
+      "progresamos",
+      "progresasteis",
+      "progresaron"
+    ],
+    "preterito_perfecto": [
+      "he progresado",
+      "has progresado",
+      "ha progresado",
+      "hemos progresado",
+      "habéis progresado",
+      "han progresado"
+    ],
+    "preterito_imperfecto": [
+      "progresaba",
+      "progresabas",
+      "progresaba",
+      "progresábamos",
+      "progresabais",
+      "progresaban"
+    ],
+    "futuro_simple": [
+      "progresaré",
+      "progresarás",
+      "progresará",
+      "progresaremos",
+      "progresaréis",
+      "progresarán"
+    ],
+    "translation_en": "to progress"
+  },
+  "publicar": {
+    "infinitive": "publicar",
+    "presente": [
+      "publico",
+      "publicas",
+      "publica",
+      "publicamos",
+      "publicáis",
+      "publican"
+    ],
+    "preterito_indefinido": [
+      "publiqué",
+      "publicaste",
+      "publicó",
+      "publicamos",
+      "publicasteis",
+      "publicaron"
+    ],
+    "preterito_perfecto": [
+      "he publicado",
+      "has publicado",
+      "ha publicado",
+      "hemos publicado",
+      "habéis publicado",
+      "han publicado"
+    ],
+    "preterito_imperfecto": [
+      "publicaba",
+      "publicabas",
+      "publicaba",
+      "publicábamos",
+      "publicabais",
+      "publicaban"
+    ],
+    "futuro_simple": [
+      "publicaré",
+      "publicarás",
+      "publicará",
+      "publicaremos",
+      "publicaréis",
+      "publicarán"
+    ],
+    "translation_en": "to publish"
+  },
+  "quemar": {
+    "infinitive": "quemar",
+    "presente": [
+      "quemo",
+      "quemas",
+      "quema",
+      "quemamos",
+      "quemáis",
+      "queman"
+    ],
+    "preterito_indefinido": [
+      "quemé",
+      "quemaste",
+      "quemó",
+      "quemamos",
+      "quemasteis",
+      "quemaron"
+    ],
+    "preterito_perfecto": [
+      "he quemado",
+      "has quemado",
+      "ha quemado",
+      "hemos quemado",
+      "habéis quemado",
+      "han quemado"
+    ],
+    "preterito_imperfecto": [
+      "quemaba",
+      "quemabas",
+      "quemaba",
+      "quemábamos",
+      "quemabais",
+      "quemaban"
+    ],
+    "futuro_simple": [
+      "quemaré",
+      "quemarás",
+      "quemará",
+      "quemaremos",
+      "quemaréis",
+      "quemarán"
+    ],
+    "translation_en": "to burn"
+  },
+  "quejarse": {
+    "infinitive": "quejarse",
+    "presente": [
+      "me quejo",
+      "te quejas",
+      "se queja",
+      "nos quejamos",
+      "os quejáis",
+      "se quejan"
+    ],
+    "preterito_indefinido": [
+      "me quejé",
+      "te quejaste",
+      "se quejó",
+      "nos quejamos",
+      "os quejasteis",
+      "se quejaron"
+    ],
+    "preterito_perfecto": [
+      "me he quejado",
+      "te has quejado",
+      "se ha quejado",
+      "nos hemos quejado",
+      "os habéis quejado",
+      "se han quejado"
+    ],
+    "preterito_imperfecto": [
+      "me quejaba",
+      "te quejabas",
+      "se quejaba",
+      "nos quejábamos",
+      "os quejabais",
+      "se quejaban"
+    ],
+    "futuro_simple": [
+      "me quejaré",
+      "te quejarás",
+      "se quejará",
+      "nos quejaremos",
+      "os quejaréis",
+      "se quejarán"
+    ],
+    "translation_en": "to complain"
+  },
+  "rasurar": {
+    "infinitive": "rasurar",
+    "presente": [
+      "rasuro",
+      "rasuras",
+      "rasura",
+      "rasuramos",
+      "rasuráis",
+      "rasuran"
+    ],
+    "preterito_indefinido": [
+      "rasuré",
+      "rasuraste",
+      "rasuró",
+      "rasuramos",
+      "rasurasteis",
+      "rasuraron"
+    ],
+    "preterito_perfecto": [
+      "he rasurado",
+      "has rasurado",
+      "ha rasurado",
+      "hemos rasurado",
+      "habéis rasurado",
+      "han rasurado"
+    ],
+    "preterito_imperfecto": [
+      "rasuraba",
+      "rasurabas",
+      "rasuraba",
+      "rasurábamos",
+      "rasurabais",
+      "rasuraban"
+    ],
+    "futuro_simple": [
+      "rasuraré",
+      "rasurarás",
+      "rasurará",
+      "rasuraremos",
+      "rasuraréis",
+      "rasurarán"
+    ],
+    "translation_en": "to shave"
+  },
+  "reaccionar": {
+    "infinitive": "reaccionar",
+    "presente": [
+      "reacciono",
+      "reaccionas",
+      "reacciona",
+      "reaccionamos",
+      "reaccionáis",
+      "reaccionan"
+    ],
+    "preterito_indefinido": [
+      "reaccioné",
+      "reaccionaste",
+      "reaccionó",
+      "reaccionamos",
+      "reaccionasteis",
+      "reaccionaron"
+    ],
+    "preterito_perfecto": [
+      "he reaccionado",
+      "has reaccionado",
+      "ha reaccionado",
+      "hemos reaccionado",
+      "habéis reaccionado",
+      "han reaccionado"
+    ],
+    "preterito_imperfecto": [
+      "reaccionaba",
+      "reaccionabas",
+      "reaccionaba",
+      "reaccionábamos",
+      "reaccionabais",
+      "reaccionaban"
+    ],
+    "futuro_simple": [
+      "reaccionaré",
+      "reaccionarás",
+      "reaccionará",
+      "reaccionaremos",
+      "reaccionaréis",
+      "reaccionarán"
+    ],
+    "translation_en": "to react"
+  },
+  "reciclar": {
+    "infinitive": "reciclar",
+    "presente": [
+      "reciclo",
+      "reciclas",
+      "recicla",
+      "reciclamos",
+      "recicláis",
+      "reciclan"
+    ],
+    "preterito_indefinido": [
+      "reciclé",
+      "reciclaste",
+      "recicló",
+      "reciclamos",
+      "reciclasteis",
+      "reciclaron"
+    ],
+    "preterito_perfecto": [
+      "he reciclado",
+      "has reciclado",
+      "ha reciclado",
+      "hemos reciclado",
+      "habéis reciclado",
+      "han reciclado"
+    ],
+    "preterito_imperfecto": [
+      "reciclaba",
+      "reciclabas",
+      "reciclaba",
+      "reciclábamos",
+      "reciclabais",
+      "reciclaban"
+    ],
+    "futuro_simple": [
+      "reciclaré",
+      "reciclarás",
+      "reciclará",
+      "reciclaremos",
+      "reciclaréis",
+      "reciclarán"
+    ],
+    "translation_en": "to recycle"
+  },
+  "recostar": {
+    "infinitive": "recostar",
+    "presente": [
+      "recuesto",
+      "recuestas",
+      "recuesta",
+      "recostamos",
+      "recostáis",
+      "recuestan"
+    ],
+    "preterito_indefinido": [
+      "recosté",
+      "recostaste",
+      "recostó",
+      "recostamos",
+      "recostasteis",
+      "recostaron"
+    ],
+    "preterito_perfecto": [
+      "he recostado",
+      "has recostado",
+      "ha recostado",
+      "hemos recostado",
+      "habéis recostado",
+      "han recostado"
+    ],
+    "preterito_imperfecto": [
+      "recostaba",
+      "recostabas",
+      "recostaba",
+      "recostábamos",
+      "recostabais",
+      "recostaban"
+    ],
+    "futuro_simple": [
+      "recostaré",
+      "recostarás",
+      "recostará",
+      "recostaremos",
+      "recostaréis",
+      "recostarán"
+    ],
+    "translation_en": "to lean / to recline"
+  },
+  "aburrir": {
+    "infinitive": "aburrir",
+    "presente": [
+      "aburro",
+      "aburres",
+      "aburre",
+      "aburrimos",
+      "aburrís",
+      "aburren"
+    ],
+    "preterito_indefinido": [
+      "aburrí",
+      "aburriste",
+      "aburrió",
+      "aburrimos",
+      "aburristeis",
+      "aburrieron"
+    ],
+    "preterito_perfecto": [
+      "he aburrido",
+      "has aburrido",
+      "ha aburrido",
+      "hemos aburrido",
+      "habéis aburrido",
+      "han aburrido"
+    ],
+    "preterito_imperfecto": [
+      "aburría",
+      "aburrías",
+      "aburría",
+      "aburríamos",
+      "aburríais",
+      "aburrían"
+    ],
+    "futuro_simple": [
+      "aburriré",
+      "aburrirás",
+      "aburrirá",
+      "aburriremos",
+      "aburriréis",
+      "aburrirán"
+    ],
+    "translation_en": "to bore / to annoy"
+  },
+  "adivinar": {
+    "infinitive": "adivinar",
+    "presente": [
+      "adivino",
+      "adivinas",
+      "adivina",
+      "adivinamos",
+      "adivináis",
+      "adivinan"
+    ],
+    "preterito_indefinido": [
+      "adiviné",
+      "adivinaste",
+      "adivinó",
+      "adivinamos",
+      "adivinasteis",
+      "adivinaron"
+    ],
+    "preterito_perfecto": [
+      "he adivinado",
+      "has adivinado",
+      "ha adivinado",
+      "hemos adivinado",
+      "habéis adivinado",
+      "han adivinado"
+    ],
+    "preterito_imperfecto": [
+      "adivinaba",
+      "adivinabas",
+      "adivinaba",
+      "adivinábamos",
+      "adivinabais",
+      "adivinaban"
+    ],
+    "futuro_simple": [
+      "adivinaré",
+      "adivinarás",
+      "adivinará",
+      "adivinaremos",
+      "adivinaréis",
+      "adivinarán"
+    ],
+    "translation_en": "to guess / to predict"
+  },
+  "admirar": {
+    "infinitive": "admirar",
+    "presente": [
+      "admiro",
+      "admiras",
+      "admira",
+      "admiramos",
+      "admiráis",
+      "admiran"
+    ],
+    "preterito_indefinido": [
+      "admiré",
+      "admiraste",
+      "admiró",
+      "admiramos",
+      "admirasteis",
+      "admiraron"
+    ],
+    "preterito_perfecto": [
+      "he admirado",
+      "has admirado",
+      "ha admirado",
+      "hemos admirado",
+      "habéis admirado",
+      "han admirado"
+    ],
+    "preterito_imperfecto": [
+      "admiraba",
+      "admirabas",
+      "admiraba",
+      "admirábamos",
+      "admirabais",
+      "admiraban"
+    ],
+    "futuro_simple": [
+      "admiraré",
+      "admirarás",
+      "admirará",
+      "admiraremos",
+      "admiraréis",
+      "admirarán"
+    ],
+    "translation_en": "to admire"
+  },
+  "alumbrar": {
+    "infinitive": "alumbrar",
+    "presente": [
+      "alumbro",
+      "alumbras",
+      "alumbra",
+      "alumbramos",
+      "alumbráis",
+      "alumbran"
+    ],
+    "preterito_indefinido": [
+      "alumbré",
+      "alumbraste",
+      "alumbró",
+      "alumbramos",
+      "alumbrasteis",
+      "alumbraron"
+    ],
+    "preterito_perfecto": [
+      "he alumbrado",
+      "has alumbrado",
+      "ha alumbrado",
+      "hemos alumbrado",
+      "habéis alumbrado",
+      "han alumbrado"
+    ],
+    "preterito_imperfecto": [
+      "alumbraba",
+      "alumbrabas",
+      "alumbraba",
+      "alumbrábamos",
+      "alumbrabais",
+      "alumbraban"
+    ],
+    "futuro_simple": [
+      "alumbraré",
+      "alumbrarás",
+      "alumbrará",
+      "alumbraremos",
+      "alumbraréis",
+      "alumbrarán"
+    ],
+    "translation_en": "to light up / to illuminate"
+  },
+  "anotar": {
+    "infinitive": "anotar",
+    "presente": [
+      "anoto",
+      "anotas",
+      "anota",
+      "anotamos",
+      "anotáis",
+      "anotan"
+    ],
+    "preterito_indefinido": [
+      "anoté",
+      "anotaste",
+      "anotó",
+      "anotamos",
+      "anotasteis",
+      "anotaron"
+    ],
+    "preterito_perfecto": [
+      "he anotado",
+      "has anotado",
+      "ha anotado",
+      "hemos anotado",
+      "habéis anotado",
+      "han anotado"
+    ],
+    "preterito_imperfecto": [
+      "anotaba",
+      "anotabas",
+      "anotaba",
+      "anotábamos",
+      "anotabais",
+      "anotaban"
+    ],
+    "futuro_simple": [
+      "anotaré",
+      "anotarás",
+      "anotará",
+      "anotaremos",
+      "anotaréis",
+      "anotarán"
+    ],
+    "translation_en": "to note down / to annotate"
+  },
+  "apartar": {
+    "infinitive": "apartar",
+    "presente": [
+      "aparto",
+      "apartas",
+      "aparta",
+      "apartamos",
+      "apartáis",
+      "apartan"
+    ],
+    "preterito_indefinido": [
+      "aparté",
+      "apartaste",
+      "apartó",
+      "apartamos",
+      "apartasteis",
+      "apartaron"
+    ],
+    "preterito_perfecto": [
+      "he apartado",
+      "has apartado",
+      "ha apartado",
+      "hemos apartado",
+      "habéis apartado",
+      "han apartado"
+    ],
+    "preterito_imperfecto": [
+      "apartaba",
+      "apartabas",
+      "apartaba",
+      "apartábamos",
+      "apartabais",
+      "apartaban"
+    ],
+    "futuro_simple": [
+      "apartaré",
+      "apartarás",
+      "apartará",
+      "apartaremos",
+      "apartaréis",
+      "apartarán"
+    ],
+    "translation_en": "to set aside / to separate"
+  },
+  "arrastrar": {
+    "infinitive": "arrastrar",
+    "presente": [
+      "arrastro",
+      "arrastras",
+      "arrastra",
+      "arrastramos",
+      "arrastráis",
+      "arrastran"
+    ],
+    "preterito_indefinido": [
+      "arrastré",
+      "arrastraste",
+      "arrastró",
+      "arrastramos",
+      "arrastrasteis",
+      "arrastraron"
+    ],
+    "preterito_perfecto": [
+      "he arrastrado",
+      "has arrastrado",
+      "ha arrastrado",
+      "hemos arrastrado",
+      "habéis arrastrado",
+      "han arrastrado"
+    ],
+    "preterito_imperfecto": [
+      "arrastraba",
+      "arrastrabas",
+      "arrastraba",
+      "arrastrábamos",
+      "arrastrabais",
+      "arrastraban"
+    ],
+    "futuro_simple": [
+      "arrastraré",
+      "arrastrarás",
+      "arrastrará",
+      "arrastraremos",
+      "arrastraréis",
+      "arrastrarán"
+    ],
+    "translation_en": "to drag / to pull"
+  },
+  "atender": {
+    "infinitive": "atender",
+    "presente": [
+      "atendo",
+      "atendes",
+      "atende",
+      "atendemos",
+      "atendéis",
+      "atenden"
+    ],
+    "preterito_indefinido": [
+      "atendí",
+      "atendiste",
+      "atendió",
+      "atendimos",
+      "atendisteis",
+      "atendieron"
+    ],
+    "preterito_perfecto": [
+      "he atendido",
+      "has atendido",
+      "ha atendido",
+      "hemos atendido",
+      "habéis atendido",
+      "han atendido"
+    ],
+    "preterito_imperfecto": [
+      "atendía",
+      "atendías",
+      "atendía",
+      "atendíamos",
+      "atendíais",
+      "atendían"
+    ],
+    "futuro_simple": [
+      "atenderé",
+      "atenderás",
+      "atenderá",
+      "atenderemos",
+      "atenderéis",
+      "atenderán"
+    ],
+    "translation_en": "to attend to / to assist"
+  },
+  "avanzar": {
+    "infinitive": "avanzar",
+    "presente": [
+      "avanzo",
+      "avanzas",
+      "avanza",
+      "avanzamos",
+      "avanzáis",
+      "avanzan"
+    ],
+    "preterito_indefinido": [
+      "avanzé",
+      "avanzaste",
+      "avanzó",
+      "avanzamos",
+      "avanzasteis",
+      "avanzaron"
+    ],
+    "preterito_perfecto": [
+      "he avanzado",
+      "has avanzado",
+      "ha avanzado",
+      "hemos avanzado",
+      "habéis avanzado",
+      "han avanzado"
+    ],
+    "preterito_imperfecto": [
+      "avanzaba",
+      "avanzabas",
+      "avanzaba",
+      "avanzábamos",
+      "avanzabais",
+      "avanzaban"
+    ],
+    "futuro_simple": [
+      "avanzaré",
+      "avanzarás",
+      "avanzará",
+      "avanzaremos",
+      "avanzaréis",
+      "avanzarán"
+    ],
+    "translation_en": "to advance / to move forward"
+  },
+  "barrer": {
+    "infinitive": "barrer",
+    "presente": [
+      "barro",
+      "barres",
+      "barre",
+      "barremos",
+      "barréis",
+      "barren"
+    ],
+    "preterito_indefinido": [
+      "barrí",
+      "barriste",
+      "barrió",
+      "barrimos",
+      "barristeis",
+      "barrieron"
+    ],
+    "preterito_perfecto": [
+      "he barrido",
+      "has barrido",
+      "ha barrido",
+      "hemos barrido",
+      "habéis barrido",
+      "han barrido"
+    ],
+    "preterito_imperfecto": [
+      "barría",
+      "barrías",
+      "barría",
+      "barríamos",
+      "barríais",
+      "barrían"
+    ],
+    "futuro_simple": [
+      "barreré",
+      "barrerás",
+      "barrerá",
+      "barreremos",
+      "barreréis",
+      "barrerán"
+    ],
+    "translation_en": "to sweep"
+  },
+  "batir": {
+    "infinitive": "batir",
+    "presente": [
+      "bato",
+      "bates",
+      "bate",
+      "batimos",
+      "batís",
+      "baten"
+    ],
+    "preterito_indefinido": [
+      "batí",
+      "batiste",
+      "batió",
+      "batimos",
+      "batisteis",
+      "batieron"
+    ],
+    "preterito_perfecto": [
+      "he batido",
+      "has batido",
+      "ha batido",
+      "hemos batido",
+      "habéis batido",
+      "han batido"
+    ],
+    "preterito_imperfecto": [
+      "batía",
+      "batías",
+      "batía",
+      "batíamos",
+      "batíais",
+      "batían"
+    ],
+    "futuro_simple": [
+      "batiré",
+      "batirás",
+      "batirá",
+      "batiremos",
+      "batiréis",
+      "batirán"
+    ],
+    "translation_en": "to beat / to whisk"
+  },
+  "bautizar": {
+    "infinitive": "bautizar",
+    "presente": [
+      "bautizo",
+      "bautizas",
+      "bautiza",
+      "bautizamos",
+      "bautizáis",
+      "bautizan"
+    ],
+    "preterito_indefinido": [
+      "bautizé",
+      "bautizaste",
+      "bautizó",
+      "bautizamos",
+      "bautizasteis",
+      "bautizaron"
+    ],
+    "preterito_perfecto": [
+      "he bautizado",
+      "has bautizado",
+      "ha bautizado",
+      "hemos bautizado",
+      "habéis bautizado",
+      "han bautizado"
+    ],
+    "preterito_imperfecto": [
+      "bautizaba",
+      "bautizabas",
+      "bautizaba",
+      "bautizábamos",
+      "bautizabais",
+      "bautizaban"
+    ],
+    "futuro_simple": [
+      "bautizaré",
+      "bautizarás",
+      "bautizará",
+      "bautizaremos",
+      "bautizaréis",
+      "bautizarán"
+    ],
+    "translation_en": "to baptize"
+  },
+  "bostezar": {
+    "infinitive": "bostezar",
+    "presente": [
+      "bostezo",
+      "bostezas",
+      "bosteza",
+      "bostezamos",
+      "bostezáis",
+      "bostezan"
+    ],
+    "preterito_indefinido": [
+      "bostezé",
+      "bostezaste",
+      "bostezó",
+      "bostezamos",
+      "bostezasteis",
+      "bostezaron"
+    ],
+    "preterito_perfecto": [
+      "he bostezado",
+      "has bostezado",
+      "ha bostezado",
+      "hemos bostezado",
+      "habéis bostezado",
+      "han bostezado"
+    ],
+    "preterito_imperfecto": [
+      "bostezaba",
+      "bostezabas",
+      "bostezaba",
+      "bostezábamos",
+      "bostezabais",
+      "bostezaban"
+    ],
+    "futuro_simple": [
+      "bostezaré",
+      "bostezarás",
+      "bostezará",
+      "bostezaremos",
+      "bostezaréis",
+      "bostezarán"
+    ],
+    "translation_en": "to yawn"
+  },
+  "brincar": {
+    "infinitive": "brincar",
+    "presente": [
+      "brinco",
+      "brincas",
+      "brinca",
+      "brincamos",
+      "brincáis",
+      "brincan"
+    ],
+    "preterito_indefinido": [
+      "brincé",
+      "brincaste",
+      "brincó",
+      "brincamos",
+      "brincasteis",
+      "brincaron"
+    ],
+    "preterito_perfecto": [
+      "he brincado",
+      "has brincado",
+      "ha brincado",
+      "hemos brincado",
+      "habéis brincado",
+      "han brincado"
+    ],
+    "preterito_imperfecto": [
+      "brincaba",
+      "brincabas",
+      "brincaba",
+      "brincábamos",
+      "brincabais",
+      "brincaban"
+    ],
+    "futuro_simple": [
+      "brincaré",
+      "brincarás",
+      "brincará",
+      "brincaremos",
+      "brincaréis",
+      "brincarán"
+    ],
+    "translation_en": "to jump / to skip"
+  },
+  "bromear": {
+    "infinitive": "bromear",
+    "presente": [
+      "bromeo",
+      "bromeas",
+      "bromea",
+      "bromeamos",
+      "bromeáis",
+      "bromean"
+    ],
+    "preterito_indefinido": [
+      "bromeé",
+      "bromeaste",
+      "bromeó",
+      "bromeamos",
+      "bromeasteis",
+      "bromearon"
+    ],
+    "preterito_perfecto": [
+      "he bromeado",
+      "has bromeado",
+      "ha bromeado",
+      "hemos bromeado",
+      "habéis bromeado",
+      "han bromeado"
+    ],
+    "preterito_imperfecto": [
+      "bromeaba",
+      "bromeabas",
+      "bromeaba",
+      "bromeábamos",
+      "bromeabais",
+      "bromeaban"
+    ],
+    "futuro_simple": [
+      "bromearé",
+      "bromearás",
+      "bromeará",
+      "bromearemos",
+      "bromearéis",
+      "bromearán"
+    ],
+    "translation_en": "to joke"
+  },
+  "callar": {
+    "infinitive": "callar",
+    "presente": [
+      "callo",
+      "callas",
+      "calla",
+      "callamos",
+      "calláis",
+      "callan"
+    ],
+    "preterito_indefinido": [
+      "callé",
+      "callaste",
+      "calló",
+      "callamos",
+      "callasteis",
+      "callaron"
+    ],
+    "preterito_perfecto": [
+      "he callado",
+      "has callado",
+      "ha callado",
+      "hemos callado",
+      "habéis callado",
+      "han callado"
+    ],
+    "preterito_imperfecto": [
+      "callaba",
+      "callabas",
+      "callaba",
+      "callábamos",
+      "callabais",
+      "callaban"
+    ],
+    "futuro_simple": [
+      "callaré",
+      "callarás",
+      "callará",
+      "callaremos",
+      "callaréis",
+      "callarán"
+    ],
+    "translation_en": "to be quiet / to shut up"
+  },
+  "capturar": {
+    "infinitive": "capturar",
+    "presente": [
+      "capturo",
+      "capturas",
+      "captura",
+      "capturamos",
+      "capturáis",
+      "capturan"
+    ],
+    "preterito_indefinido": [
+      "capturé",
+      "capturaste",
+      "capturó",
+      "capturamos",
+      "capturasteis",
+      "capturaron"
+    ],
+    "preterito_perfecto": [
+      "he capturado",
+      "has capturado",
+      "ha capturado",
+      "hemos capturado",
+      "habéis capturado",
+      "han capturado"
+    ],
+    "preterito_imperfecto": [
+      "capturaba",
+      "capturabas",
+      "capturaba",
+      "capturábamos",
+      "capturabais",
+      "capturaban"
+    ],
+    "futuro_simple": [
+      "capturaré",
+      "capturarás",
+      "capturará",
+      "capturaremos",
+      "capturaréis",
+      "capturarán"
+    ],
+    "translation_en": "to capture"
+  },
+  "carecer": {
+    "infinitive": "carecer",
+    "presente": [
+      "careco",
+      "careces",
+      "carece",
+      "carecemos",
+      "carecéis",
+      "carecen"
+    ],
+    "preterito_indefinido": [
+      "carecí",
+      "careciste",
+      "careció",
+      "carecimos",
+      "carecisteis",
+      "carecieron"
+    ],
+    "preterito_perfecto": [
+      "he carecido",
+      "has carecido",
+      "ha carecido",
+      "hemos carecido",
+      "habéis carecido",
+      "han carecido"
+    ],
+    "preterito_imperfecto": [
+      "carecía",
+      "carecías",
+      "carecía",
+      "carecíamos",
+      "carecíais",
+      "carecían"
+    ],
+    "futuro_simple": [
+      "careceré",
+      "carecerás",
+      "carecerá",
+      "careceremos",
+      "careceréis",
+      "carecerán"
+    ],
+    "translation_en": "to lack"
+  },
+  "cepillar": {
+    "infinitive": "cepillar",
+    "presente": [
+      "cepillo",
+      "cepillas",
+      "cepilla",
+      "cepillamos",
+      "cepilláis",
+      "cepillan"
+    ],
+    "preterito_indefinido": [
+      "cepillé",
+      "cepillaste",
+      "cepilló",
+      "cepillamos",
+      "cepillasteis",
+      "cepillaron"
+    ],
+    "preterito_perfecto": [
+      "he cepillado",
+      "has cepillado",
+      "ha cepillado",
+      "hemos cepillado",
+      "habéis cepillado",
+      "han cepillado"
+    ],
+    "preterito_imperfecto": [
+      "cepillaba",
+      "cepillabas",
+      "cepillaba",
+      "cepillábamos",
+      "cepillabais",
+      "cepillaban"
+    ],
+    "futuro_simple": [
+      "cepillaré",
+      "cepillarás",
+      "cepillará",
+      "cepillaremos",
+      "cepillaréis",
+      "cepillarán"
+    ],
+    "translation_en": "to brush"
+  },
+  "chocar": {
+    "infinitive": "chocar",
+    "presente": [
+      "choco",
+      "chocas",
+      "choca",
+      "chocamos",
+      "chocáis",
+      "chocan"
+    ],
+    "preterito_indefinido": [
+      "chocé",
+      "chocaste",
+      "chocó",
+      "chocamos",
+      "chocasteis",
+      "chocaron"
+    ],
+    "preterito_perfecto": [
+      "he chocado",
+      "has chocado",
+      "ha chocado",
+      "hemos chocado",
+      "habéis chocado",
+      "han chocado"
+    ],
+    "preterito_imperfecto": [
+      "chocaba",
+      "chocabas",
+      "chocaba",
+      "chocábamos",
+      "chocabais",
+      "chocaban"
+    ],
+    "futuro_simple": [
+      "chocaré",
+      "chocarás",
+      "chocará",
+      "chocaremos",
+      "chocaréis",
+      "chocarán"
+    ],
+    "translation_en": "to crash / to collide"
+  },
+  "cometer": {
+    "infinitive": "cometer",
+    "presente": [
+      "cometo",
+      "cometes",
+      "comete",
+      "cometemos",
+      "cometéis",
+      "cometen"
+    ],
+    "preterito_indefinido": [
+      "cometí",
+      "cometiste",
+      "cometió",
+      "cometimos",
+      "cometisteis",
+      "cometieron"
+    ],
+    "preterito_perfecto": [
+      "he cometido",
+      "has cometido",
+      "ha cometido",
+      "hemos cometido",
+      "habéis cometido",
+      "han cometido"
+    ],
+    "preterito_imperfecto": [
+      "cometía",
+      "cometías",
+      "cometía",
+      "cometíamos",
+      "cometíais",
+      "cometían"
+    ],
+    "futuro_simple": [
+      "cometeré",
+      "cometerás",
+      "cometerá",
+      "cometeremos",
+      "cometeréis",
+      "cometerán"
+    ],
+    "translation_en": "to commit"
+  },
+  "conmover": {
+    "infinitive": "conmover",
+    "presente": [
+      "conmovo",
+      "conmoves",
+      "conmove",
+      "conmovemos",
+      "conmovéis",
+      "conmoven"
+    ],
+    "preterito_indefinido": [
+      "conmoví",
+      "conmoviste",
+      "conmovió",
+      "conmovimos",
+      "conmovisteis",
+      "conmovieron"
+    ],
+    "preterito_perfecto": [
+      "he conmovido",
+      "has conmovido",
+      "ha conmovido",
+      "hemos conmovido",
+      "habéis conmovido",
+      "han conmovido"
+    ],
+    "preterito_imperfecto": [
+      "conmovía",
+      "conmovías",
+      "conmovía",
+      "conmovíamos",
+      "conmovíais",
+      "conmovían"
+    ],
+    "futuro_simple": [
+      "conmoveré",
+      "conmoverás",
+      "conmoverá",
+      "conmoveremos",
+      "conmoveréis",
+      "conmoverán"
+    ],
+    "translation_en": "to move / to touch (emotionally)"
+  },
+  "consolar": {
+    "infinitive": "consolar",
+    "presente": [
+      "consolo",
+      "consolas",
+      "consola",
+      "consolamos",
+      "consoláis",
+      "consolan"
+    ],
+    "preterito_indefinido": [
+      "consolé",
+      "consolaste",
+      "consoló",
+      "consolamos",
+      "consolasteis",
+      "consolaron"
+    ],
+    "preterito_perfecto": [
+      "he consolado",
+      "has consolado",
+      "ha consolado",
+      "hemos consolado",
+      "habéis consolado",
+      "han consolado"
+    ],
+    "preterito_imperfecto": [
+      "consolaba",
+      "consolabas",
+      "consolaba",
+      "consolábamos",
+      "consolabais",
+      "consolaban"
+    ],
+    "futuro_simple": [
+      "consolaré",
+      "consolarás",
+      "consolará",
+      "consolaremos",
+      "consolaréis",
+      "consolarán"
+    ],
+    "translation_en": "to console / to comfort"
+  },
+  "contagiar": {
+    "infinitive": "contagiar",
+    "presente": [
+      "contagio",
+      "contagias",
+      "contagia",
+      "contagiamos",
+      "contagiáis",
+      "contagian"
+    ],
+    "preterito_indefinido": [
+      "contagié",
+      "contagiaste",
+      "contagió",
+      "contagiamos",
+      "contagiasteis",
+      "contagiaron"
+    ],
+    "preterito_perfecto": [
+      "he contagiado",
+      "has contagiado",
+      "ha contagiado",
+      "hemos contagiado",
+      "habéis contagiado",
+      "han contagiado"
+    ],
+    "preterito_imperfecto": [
+      "contagiaba",
+      "contagiabas",
+      "contagiaba",
+      "contagiábamos",
+      "contagiabais",
+      "contagiaban"
+    ],
+    "futuro_simple": [
+      "contagiaré",
+      "contagiarás",
+      "contagiará",
+      "contagiaremos",
+      "contagiaréis",
+      "contagiarán"
+    ],
+    "translation_en": "to infect / to pass on"
+  },
+  "contaminar": {
+    "infinitive": "contaminar",
+    "presente": [
+      "contamino",
+      "contaminas",
+      "contamina",
+      "contaminamos",
+      "contamináis",
+      "contaminan"
+    ],
+    "preterito_indefinido": [
+      "contaminé",
+      "contaminaste",
+      "contaminó",
+      "contaminamos",
+      "contaminasteis",
+      "contaminaron"
+    ],
+    "preterito_perfecto": [
+      "he contaminado",
+      "has contaminado",
+      "ha contaminado",
+      "hemos contaminado",
+      "habéis contaminado",
+      "han contaminado"
+    ],
+    "preterito_imperfecto": [
+      "contaminaba",
+      "contaminabas",
+      "contaminaba",
+      "contaminábamos",
+      "contaminabais",
+      "contaminaban"
+    ],
+    "futuro_simple": [
+      "contaminaré",
+      "contaminarás",
+      "contaminará",
+      "contaminaremos",
+      "contaminaréis",
+      "contaminarán"
+    ],
+    "translation_en": "to contaminate / to pollute"
+  },
+  "convivir": {
+    "infinitive": "convivir",
+    "presente": [
+      "convivo",
+      "convives",
+      "convive",
+      "convivimos",
+      "convivís",
+      "conviven"
+    ],
+    "preterito_indefinido": [
+      "conviví",
+      "conviviste",
+      "convivió",
+      "convivimos",
+      "convivisteis",
+      "convivieron"
+    ],
+    "preterito_perfecto": [
+      "he convivido",
+      "has convivido",
+      "ha convivido",
+      "hemos convivido",
+      "habéis convivido",
+      "han convivido"
+    ],
+    "preterito_imperfecto": [
+      "convivía",
+      "convivías",
+      "convivía",
+      "convivíamos",
+      "convivíais",
+      "convivían"
+    ],
+    "futuro_simple": [
+      "conviviré",
+      "convivirás",
+      "convivirá",
+      "conviviremos",
+      "conviviréis",
+      "convivirán"
+    ],
+    "translation_en": "to live together / to coexist"
+  },
+  "cosechar": {
+    "infinitive": "cosechar",
+    "presente": [
+      "cosecho",
+      "cosechas",
+      "cosecha",
+      "cosechamos",
+      "cosecháis",
+      "cosechan"
+    ],
+    "preterito_indefinido": [
+      "coseché",
+      "cosechaste",
+      "cosechó",
+      "cosechamos",
+      "cosechasteis",
+      "cosecharon"
+    ],
+    "preterito_perfecto": [
+      "he cosechado",
+      "has cosechado",
+      "ha cosechado",
+      "hemos cosechado",
+      "habéis cosechado",
+      "han cosechado"
+    ],
+    "preterito_imperfecto": [
+      "cosechaba",
+      "cosechabas",
+      "cosechaba",
+      "cosechábamos",
+      "cosechabais",
+      "cosechaban"
+    ],
+    "futuro_simple": [
+      "cosecharé",
+      "cosecharás",
+      "cosechará",
+      "cosecharemos",
+      "cosecharéis",
+      "cosecharán"
+    ],
+    "translation_en": "to harvest"
+  },
+  "cultivar": {
+    "infinitive": "cultivar",
+    "presente": [
+      "cultivo",
+      "cultivas",
+      "cultiva",
+      "cultivamos",
+      "cultiváis",
+      "cultivan"
+    ],
+    "preterito_indefinido": [
+      "cultivé",
+      "cultivaste",
+      "cultivó",
+      "cultivamos",
+      "cultivasteis",
+      "cultivaron"
+    ],
+    "preterito_perfecto": [
+      "he cultivado",
+      "has cultivado",
+      "ha cultivado",
+      "hemos cultivado",
+      "habéis cultivado",
+      "han cultivado"
+    ],
+    "preterito_imperfecto": [
+      "cultivaba",
+      "cultivabas",
+      "cultivaba",
+      "cultivábamos",
+      "cultivabais",
+      "cultivaban"
+    ],
+    "futuro_simple": [
+      "cultivaré",
+      "cultivarás",
+      "cultivará",
+      "cultivaremos",
+      "cultivaréis",
+      "cultivarán"
+    ],
+    "translation_en": "to cultivate / to grow"
+  },
+  "derrotar": {
+    "infinitive": "derrotar",
+    "presente": [
+      "derroto",
+      "derrotas",
+      "derrota",
+      "derrotamos",
+      "derrotáis",
+      "derrotan"
+    ],
+    "preterito_indefinido": [
+      "derroté",
+      "derrotaste",
+      "derrotó",
+      "derrotamos",
+      "derrotasteis",
+      "derrotaron"
+    ],
+    "preterito_perfecto": [
+      "he derrotado",
+      "has derrotado",
+      "ha derrotado",
+      "hemos derrotado",
+      "habéis derrotado",
+      "han derrotado"
+    ],
+    "preterito_imperfecto": [
+      "derrotaba",
+      "derrotabas",
+      "derrotaba",
+      "derrotábamos",
+      "derrotabais",
+      "derrotaban"
+    ],
+    "futuro_simple": [
+      "derrotaré",
+      "derrotarás",
+      "derrotará",
+      "derrotaremos",
+      "derrotaréis",
+      "derrotarán"
+    ],
+    "translation_en": "to defeat"
+  },
+  "descifrar": {
+    "infinitive": "descifrar",
+    "presente": [
+      "descifro",
+      "descifras",
+      "descifra",
+      "desciframos",
+      "descifráis",
+      "descifran"
+    ],
+    "preterito_indefinido": [
+      "descifré",
+      "descifraste",
+      "descifró",
+      "desciframos",
+      "descifrasteis",
+      "descifraron"
+    ],
+    "preterito_perfecto": [
+      "he descifrado",
+      "has descifrado",
+      "ha descifrado",
+      "hemos descifrado",
+      "habéis descifrado",
+      "han descifrado"
+    ],
+    "preterito_imperfecto": [
+      "descifraba",
+      "descifrabas",
+      "descifraba",
+      "descifrábamos",
+      "descifrabais",
+      "descifraban"
+    ],
+    "futuro_simple": [
+      "descifraré",
+      "descifrarás",
+      "descifrará",
+      "descifraremos",
+      "descifraréis",
+      "descifrarán"
+    ],
+    "translation_en": "to decipher / to decode"
+  },
+  "desempeñar": {
+    "infinitive": "desempeñar",
+    "presente": [
+      "desempeño",
+      "desempeñas",
+      "desempeña",
+      "desempeñamos",
+      "desempeñáis",
+      "desempeñan"
+    ],
+    "preterito_indefinido": [
+      "desempeñé",
+      "desempeñaste",
+      "desempeñó",
+      "desempeñamos",
+      "desempeñasteis",
+      "desempeñaron"
+    ],
+    "preterito_perfecto": [
+      "he desempeñado",
+      "has desempeñado",
+      "ha desempeñado",
+      "hemos desempeñado",
+      "habéis desempeñado",
+      "han desempeñado"
+    ],
+    "preterito_imperfecto": [
+      "desempeñaba",
+      "desempeñabas",
+      "desempeñaba",
+      "desempeñábamos",
+      "desempeñabais",
+      "desempeñaban"
+    ],
+    "futuro_simple": [
+      "desempeñaré",
+      "desempeñarás",
+      "desempeñará",
+      "desempeñaremos",
+      "desempeñaréis",
+      "desempeñarán"
+    ],
+    "translation_en": "to perform / to carry out"
+  },
+  "deslizar": {
+    "infinitive": "deslizar",
+    "presente": [
+      "deslizo",
+      "deslizas",
+      "desliza",
+      "deslizamos",
+      "deslizáis",
+      "deslizan"
+    ],
+    "preterito_indefinido": [
+      "deslizé",
+      "deslizaste",
+      "deslizó",
+      "deslizamos",
+      "deslizasteis",
+      "deslizaron"
+    ],
+    "preterito_perfecto": [
+      "he deslizado",
+      "has deslizado",
+      "ha deslizado",
+      "hemos deslizado",
+      "habéis deslizado",
+      "han deslizado"
+    ],
+    "preterito_imperfecto": [
+      "deslizaba",
+      "deslizabas",
+      "deslizaba",
+      "deslizábamos",
+      "deslizabais",
+      "deslizaban"
+    ],
+    "futuro_simple": [
+      "deslizaré",
+      "deslizarás",
+      "deslizará",
+      "deslizaremos",
+      "deslizaréis",
+      "deslizarán"
+    ],
+    "translation_en": "to slide / to slip"
+  },
+  "desperdiciar": {
+    "infinitive": "desperdiciar",
+    "presente": [
+      "desperdicio",
+      "desperdicias",
+      "desperdicia",
+      "desperdiciamos",
+      "desperdiciáis",
+      "desperdician"
+    ],
+    "preterito_indefinido": [
+      "desperdicié",
+      "desperdiciaste",
+      "desperdició",
+      "desperdiciamos",
+      "desperdiciasteis",
+      "desperdiciaron"
+    ],
+    "preterito_perfecto": [
+      "he desperdiciado",
+      "has desperdiciado",
+      "ha desperdiciado",
+      "hemos desperdiciado",
+      "habéis desperdiciado",
+      "han desperdiciado"
+    ],
+    "preterito_imperfecto": [
+      "desperdiciaba",
+      "desperdiciabas",
+      "desperdiciaba",
+      "desperdiciábamos",
+      "desperdiciabais",
+      "desperdiciaban"
+    ],
+    "futuro_simple": [
+      "desperdiciaré",
+      "desperdiciarás",
+      "desperdiciará",
+      "desperdiciaremos",
+      "desperdiciaréis",
+      "desperdiciarán"
+    ],
+    "translation_en": "to waste / to squander"
+  },
+  "difundir": {
+    "infinitive": "difundir",
+    "presente": [
+      "difundo",
+      "difundes",
+      "difunde",
+      "difundimos",
+      "difundís",
+      "difunden"
+    ],
+    "preterito_indefinido": [
+      "difundí",
+      "difundiste",
+      "difundió",
+      "difundimos",
+      "difundisteis",
+      "difundieron"
+    ],
+    "preterito_perfecto": [
+      "he difundido",
+      "has difundido",
+      "ha difundido",
+      "hemos difundido",
+      "habéis difundido",
+      "han difundido"
+    ],
+    "preterito_imperfecto": [
+      "difundía",
+      "difundías",
+      "difundía",
+      "difundíamos",
+      "difundíais",
+      "difundían"
+    ],
+    "futuro_simple": [
+      "difundiré",
+      "difundirás",
+      "difundirá",
+      "difundiremos",
+      "difundiréis",
+      "difundirán"
+    ],
+    "translation_en": "to broadcast / to spread"
+  },
+  "digitar": {
+    "infinitive": "digitar",
+    "presente": [
+      "digito",
+      "digitas",
+      "digita",
+      "digitamos",
+      "digitáis",
+      "digitan"
+    ],
+    "preterito_indefinido": [
+      "digité",
+      "digitaste",
+      "digitó",
+      "digitamos",
+      "digitasteis",
+      "digitaron"
+    ],
+    "preterito_perfecto": [
+      "he digitado",
+      "has digitado",
+      "ha digitado",
+      "hemos digitado",
+      "habéis digitado",
+      "han digitado"
+    ],
+    "preterito_imperfecto": [
+      "digitaba",
+      "digitabas",
+      "digitaba",
+      "digitábamos",
+      "digitabais",
+      "digitaban"
+    ],
+    "futuro_simple": [
+      "digitaré",
+      "digitarás",
+      "digitará",
+      "digitaremos",
+      "digitaréis",
+      "digitarán"
+    ],
+    "translation_en": "to type"
+  },
+  "diluir": {
+    "infinitive": "diluir",
+    "presente": [
+      "diluo",
+      "dilues",
+      "dilue",
+      "diluimos",
+      "diluís",
+      "diluen"
+    ],
+    "preterito_indefinido": [
+      "diluí",
+      "diluiste",
+      "diluió",
+      "diluimos",
+      "diluisteis",
+      "diluieron"
+    ],
+    "preterito_perfecto": [
+      "he diluido",
+      "has diluido",
+      "ha diluido",
+      "hemos diluido",
+      "habéis diluido",
+      "han diluido"
+    ],
+    "preterito_imperfecto": [
+      "diluía",
+      "diluías",
+      "diluía",
+      "diluíamos",
+      "diluíais",
+      "diluían"
+    ],
+    "futuro_simple": [
+      "diluiré",
+      "diluirás",
+      "diluirá",
+      "diluiremos",
+      "diluiréis",
+      "diluirán"
+    ],
+    "translation_en": "to dilute"
+  },
+  "discutir": {
+    "infinitive": "discutir",
+    "presente": [
+      "discuto",
+      "discutes",
+      "discute",
+      "discutimos",
+      "discutís",
+      "discuten"
+    ],
+    "preterito_indefinido": [
+      "discutí",
+      "discutiste",
+      "discutió",
+      "discutimos",
+      "discutisteis",
+      "discutieron"
+    ],
+    "preterito_perfecto": [
+      "he discutido",
+      "has discutido",
+      "ha discutido",
+      "hemos discutido",
+      "habéis discutido",
+      "han discutido"
+    ],
+    "preterito_imperfecto": [
+      "discutía",
+      "discutías",
+      "discutía",
+      "discutíamos",
+      "discutíais",
+      "discutían"
+    ],
+    "futuro_simple": [
+      "discutiré",
+      "discutirás",
+      "discutirá",
+      "discutiremos",
+      "discutiréis",
+      "discutirán"
+    ],
+    "translation_en": "to discuss / to argue"
+  },
+  "disparar": {
+    "infinitive": "disparar",
+    "presente": [
+      "disparo",
+      "disparas",
+      "dispara",
+      "disparamos",
+      "disparáis",
+      "disparan"
+    ],
+    "preterito_indefinido": [
+      "disparé",
+      "disparaste",
+      "disparó",
+      "disparamos",
+      "disparasteis",
+      "dispararon"
+    ],
+    "preterito_perfecto": [
+      "he disparado",
+      "has disparado",
+      "ha disparado",
+      "hemos disparado",
+      "habéis disparado",
+      "han disparado"
+    ],
+    "preterito_imperfecto": [
+      "disparaba",
+      "disparabas",
+      "disparaba",
+      "disparábamos",
+      "disparabais",
+      "disparaban"
+    ],
+    "futuro_simple": [
+      "dispararé",
+      "dispararás",
+      "disparará",
+      "dispararemos",
+      "dispararéis",
+      "dispararán"
+    ],
+    "translation_en": "to shoot / to fire"
+  },
+  "divulgar": {
+    "infinitive": "divulgar",
+    "presente": [
+      "divulgo",
+      "divulgas",
+      "divulga",
+      "divulgamos",
+      "divulgáis",
+      "divulgan"
+    ],
+    "preterito_indefinido": [
+      "divulgé",
+      "divulgaste",
+      "divulgó",
+      "divulgamos",
+      "divulgasteis",
+      "divulgaron"
+    ],
+    "preterito_perfecto": [
+      "he divulgado",
+      "has divulgado",
+      "ha divulgado",
+      "hemos divulgado",
+      "habéis divulgado",
+      "han divulgado"
+    ],
+    "preterito_imperfecto": [
+      "divulgaba",
+      "divulgabas",
+      "divulgaba",
+      "divulgábamos",
+      "divulgabais",
+      "divulgaban"
+    ],
+    "futuro_simple": [
+      "divulgaré",
+      "divulgarás",
+      "divulgará",
+      "divulgaremos",
+      "divulgaréis",
+      "divulgarán"
+    ],
+    "translation_en": "to disclose / to reveal"
+  },
+  "extrañar": {
+    "infinitive": "extrañar",
+    "presente": [
+      "extraño",
+      "extrañas",
+      "extraña",
+      "extrañamos",
+      "extrañáis",
+      "extrañan"
+    ],
+    "preterito_indefinido": [
+      "extrañé",
+      "extrañaste",
+      "extrañó",
+      "extrañamos",
+      "extrañasteis",
+      "extrañaron"
+    ],
+    "preterito_perfecto": [
+      "he extrañado",
+      "has extrañado",
+      "ha extrañado",
+      "hemos extrañado",
+      "habéis extrañado",
+      "han extrañado"
+    ],
+    "preterito_imperfecto": [
+      "extrañaba",
+      "extrañabas",
+      "extrañaba",
+      "extrañábamos",
+      "extrañabais",
+      "extrañaban"
+    ],
+    "futuro_simple": [
+      "extrañaré",
+      "extrañarás",
+      "extrañará",
+      "extrañaremos",
+      "extrañaréis",
+      "extrañarán"
+    ],
+    "translation_en": "to miss / to surprise"
+  },
+  "fallecer": {
+    "infinitive": "fallecer",
+    "presente": [
+      "falleco",
+      "falleces",
+      "fallece",
+      "fallecemos",
+      "fallecéis",
+      "fallecen"
+    ],
+    "preterito_indefinido": [
+      "fallecí",
+      "falleciste",
+      "falleció",
+      "fallecimos",
+      "fallecisteis",
+      "fallecieron"
+    ],
+    "preterito_perfecto": [
+      "he fallecido",
+      "has fallecido",
+      "ha fallecido",
+      "hemos fallecido",
+      "habéis fallecido",
+      "han fallecido"
+    ],
+    "preterito_imperfecto": [
+      "fallecía",
+      "fallecías",
+      "fallecía",
+      "fallecíamos",
+      "fallecíais",
+      "fallecían"
+    ],
+    "futuro_simple": [
+      "falleceré",
+      "fallecerás",
+      "fallecerá",
+      "falleceremos",
+      "falleceréis",
+      "fallecerán"
+    ],
+    "translation_en": "to pass away"
+  },
+  "heredar": {
+    "infinitive": "heredar",
+    "presente": [
+      "heredo",
+      "heredas",
+      "hereda",
+      "heredamos",
+      "heredáis",
+      "heredan"
+    ],
+    "preterito_indefinido": [
+      "heredé",
+      "heredaste",
+      "heredó",
+      "heredamos",
+      "heredasteis",
+      "heredaron"
+    ],
+    "preterito_perfecto": [
+      "he heredado",
+      "has heredado",
+      "ha heredado",
+      "hemos heredado",
+      "habéis heredado",
+      "han heredado"
+    ],
+    "preterito_imperfecto": [
+      "heredaba",
+      "heredabas",
+      "heredaba",
+      "heredábamos",
+      "heredabais",
+      "heredaban"
+    ],
+    "futuro_simple": [
+      "heredaré",
+      "heredarás",
+      "heredará",
+      "heredaremos",
+      "heredaréis",
+      "heredarán"
+    ],
+    "translation_en": "to inherit"
+  },
+  "ilustrar": {
+    "infinitive": "ilustrar",
+    "presente": [
+      "ilustro",
+      "ilustras",
+      "ilustra",
+      "ilustramos",
+      "ilustráis",
+      "ilustran"
+    ],
+    "preterito_indefinido": [
+      "ilustré",
+      "ilustraste",
+      "ilustró",
+      "ilustramos",
+      "ilustrasteis",
+      "ilustraron"
+    ],
+    "preterito_perfecto": [
+      "he ilustrado",
+      "has ilustrado",
+      "ha ilustrado",
+      "hemos ilustrado",
+      "habéis ilustrado",
+      "han ilustrado"
+    ],
+    "preterito_imperfecto": [
+      "ilustraba",
+      "ilustrabas",
+      "ilustraba",
+      "ilustrábamos",
+      "ilustrabais",
+      "ilustraban"
+    ],
+    "futuro_simple": [
+      "ilustraré",
+      "ilustrarás",
+      "ilustrará",
+      "ilustraremos",
+      "ilustraréis",
+      "ilustrarán"
+    ],
+    "translation_en": "to illustrate"
+  },
+  "impresionar": {
+    "infinitive": "impresionar",
+    "presente": [
+      "impresiono",
+      "impresionas",
+      "impresiona",
+      "impresionamos",
+      "impresionáis",
+      "impresionan"
+    ],
+    "preterito_indefinido": [
+      "impresioné",
+      "impresionaste",
+      "impresionó",
+      "impresionamos",
+      "impresionasteis",
+      "impresionaron"
+    ],
+    "preterito_perfecto": [
+      "he impresionado",
+      "has impresionado",
+      "ha impresionado",
+      "hemos impresionado",
+      "habéis impresionado",
+      "han impresionado"
+    ],
+    "preterito_imperfecto": [
+      "impresionaba",
+      "impresionabas",
+      "impresionaba",
+      "impresionábamos",
+      "impresionabais",
+      "impresionaban"
+    ],
+    "futuro_simple": [
+      "impresionaré",
+      "impresionarás",
+      "impresionará",
+      "impresionaremos",
+      "impresionaréis",
+      "impresionarán"
+    ],
+    "translation_en": "to impress"
+  },
+  "caber": {
+    "infinitive": "caber",
+    "presente": [
+      "quepo",
+      "cabes",
+      "cabe",
+      "cabemos",
+      "cabéis",
+      "caben"
+    ],
+    "preterito_indefinido": [
+      "cupe",
+      "cupiste",
+      "cupo",
+      "cupimos",
+      "cupisteis",
+      "cupieron"
+    ],
+    "preterito_perfecto": [
+      "he cabido",
+      "has cabido",
+      "ha cabido",
+      "hemos cabido",
+      "habéis cabido",
+      "han cabido"
+    ],
+    "preterito_imperfecto": [
+      "cabía",
+      "cabías",
+      "cabía",
+      "cabíamos",
+      "cabíais",
+      "cabían"
+    ],
+    "futuro_simple": [
+      "cabré",
+      "cabrás",
+      "cabrá",
+      "cabremos",
+      "cabréis",
+      "cabrán"
+    ],
+    "translation_en": "to fit"
+  },
+  "calentar": {
+    "infinitive": "calentar",
+    "presente": [
+      "caliento",
+      "calientas",
+      "calienta",
+      "calentamos",
+      "calentáis",
+      "calientan"
+    ],
+    "preterito_indefinido": [
+      "calenté",
+      "calentaste",
+      "calentó",
+      "calentamos",
+      "calentasteis",
+      "calentaron"
+    ],
+    "preterito_perfecto": [
+      "he calentado",
+      "has calentado",
+      "ha calentado",
+      "hemos calentado",
+      "habéis calentado",
+      "han calentado"
+    ],
+    "preterito_imperfecto": [
+      "calentaba",
+      "calentabas",
+      "calentaba",
+      "calentábamos",
+      "calentabais",
+      "calentaban"
+    ],
+    "futuro_simple": [
+      "calentaré",
+      "calentarás",
+      "calentará",
+      "calentaremos",
+      "calentaréis",
+      "calentarán"
+    ],
+    "translation_en": "to heat / to warm up"
+  },
+  "costar": {
+    "infinitive": "costar",
+    "presente": [
+      "cuesto",
+      "cuestas",
+      "cuesta",
+      "costamos",
+      "costáis",
+      "cuestan"
+    ],
+    "preterito_indefinido": [
+      "costé",
+      "costaste",
+      "costó",
+      "costamos",
+      "costasteis",
+      "costaron"
+    ],
+    "preterito_perfecto": [
+      "he costado",
+      "has costado",
+      "ha costado",
+      "hemos costado",
+      "habéis costado",
+      "han costado"
+    ],
+    "preterito_imperfecto": [
+      "costaba",
+      "costabas",
+      "costaba",
+      "costábamos",
+      "costabais",
+      "costaban"
+    ],
+    "futuro_simple": [
+      "costaré",
+      "costarás",
+      "costará",
+      "costaremos",
+      "costaréis",
+      "costarán"
+    ],
+    "translation_en": "to cost"
   }
 }
